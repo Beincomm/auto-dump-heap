@@ -1,0 +1,13 @@
+node_modules
+lib
+lib
+tests
+coverage
+temp
+yarn-error.log
+tsconfig.*
+tests
+.prettierrc
+.idea
+.husky
+.git
