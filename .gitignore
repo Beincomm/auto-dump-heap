@@ -44,3 +44,4 @@ cer/
 .scannerwork
 documentation
 heapdump
+.npmrc
